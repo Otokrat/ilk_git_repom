@@ -1,11 +1,6 @@
 yeni proje
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 developer eklentisi 
-=======
 payment eklentisi 
->>>>>>> payment
-=======
 paymenttest eklentisi 
->>>>>>> paymenttest
+
