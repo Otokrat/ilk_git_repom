@@ -1,3 +1,7 @@
 yeni proje
 
+<<<<<<< HEAD
 developer eklentisi 
+=======
+payment eklentisi 
+>>>>>>> payment
